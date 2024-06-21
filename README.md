@@ -1,4 +1,6 @@
 # PPO-pybullet
+東京大学松尾研究所の世界モデルと知能2023のコンペティション -> 結果 2位
+
 pybulletのHalfCheetah環境上でPPOを実装しました。
 
 ### [Demo]
